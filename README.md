@@ -1,6 +1,6 @@
 # NOTES
 
-Alguns dos meus `apontamentos e exercícios resolvidos` tanto de Licenciatura, como de Mestrado.
+Alguns `apontamentos e exercícios resolvidos` tanto de cadeiras de Licenciatura, como de Mestrado.
 
 ### Licenciatura
 
